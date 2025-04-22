@@ -30,7 +30,7 @@ This project is designed to showcase core embedded systems concepts, automotive 
 
 ---
 
-## Why Is This Impressive?
+__________________________________________________________________________________________________
 
 - **Demonstrates Embedded C Skills:**  
   Shows ability to structure code for real-time, event-driven systems.
