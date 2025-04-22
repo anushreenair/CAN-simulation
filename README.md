@@ -96,9 +96,9 @@ Sending CAN Msg | ID: 0x120 | Payload: Speed = 102 km/h
 
 ---
 
-## Aptiv JD Mapping
 
-| JD Requirement | Covered in Project |
+
+| Requirement | Covered in Project |
 |----------------|--------------------|
 | C/C++ | ✅ |
 | RTOS Concepts | ✅ |
