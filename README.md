@@ -4,8 +4,6 @@
 
 This project is a simulation of a real-time embedded automotive system, written in C, that demonstrates how a vehicle's speed sensor interacts with an Electronic Control Unit (ECU) over a CAN (Controller Area Network) bus. The simulation mimics periodic sensor readings and CAN message transmissions, using RTOS-style scheduling concepts. All activity is output to the console, with color-coded messages for clarity and engagement.
 
-This project is designed to showcase core embedded systems concepts, automotive communication protocols, and clean, modular C programming. It is ideal for demonstrating technical skills to recruiters and interviewers in the automotive or embedded software domain.
-
 ---
 
 ## What Does This Project Do?
